@@ -1,0 +1,11 @@
+{
+  "name": "ssbtr-manager-websocket",
+  "version": "1.0.0",
+  "description": "Websocket server used for SSBTR Overlay",
+  "main": "server.js",
+  "author": "Erika <Princesseuh>",
+  "license": "MIT",
+  "dependencies": {
+    "ws": "^7.2.1"
+  }
+}
